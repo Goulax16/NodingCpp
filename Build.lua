@@ -14,4 +14,8 @@ group "Core"
 	include "Core/Build-Core.lua"
 group ""
 
+group "Math"
+	include "Math/Build-Math.lua"
+group ""
+
 include "App/Build-App.lua"
